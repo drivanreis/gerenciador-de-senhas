@@ -1,0 +1,28 @@
+html {
+  background-color: #272a37;
+  color: white;
+  margin: auto;
+  text-align: center;
+  width: 80%;
+}
+
+header {
+  background-color: #272a37;
+  margin: 35px auto;
+  padding: 20px 0;
+}
+
+.tituloH1 {
+  background-color: #272a37;
+  color: white;
+  margin: auto;
+  width: 90%;
+}
+
+.valid-password-check {
+  color: #aeffb6;
+}
+
+.invalid-password-check {
+  color: #f58989;
+}

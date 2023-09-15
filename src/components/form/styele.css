@@ -1,0 +1,34 @@
+.formulario {
+  background-color: #1e2029;
+  border-radius: 20px;
+  margin: auto;
+  padding: 25px;
+  width: 80%;
+}
+
+.mensagens {
+  background-color: #252730;
+  border-radius: 15px;
+  margin: auto;
+  width: 50%;
+}
+
+.btnBotao {
+  background-color: #3590f5;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  margin: 20px 0;
+  padding: 5px 15px;
+}
+
+input {
+  background-color: #3b3f50;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+label {
+  margin: 10px;
+}
